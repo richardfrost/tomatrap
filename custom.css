@@ -232,7 +232,7 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
-  line-height: 34px;
+  line-height: 32px;
   line-height: 1.42857143 \0;
 }
 input[type="date"].input-sm,
@@ -645,9 +645,9 @@ input[type=password],
 textarea,
 select {
   display: inline-block;
-  height: 34px;
+  height: 32px;
   max-width:  92%;
-  padding: 6px 12px;
+  padding: 6px 10px;
   font-size: 13px;
   line-height: 1.42857143;
   color: #555;
